@@ -1139,3 +1139,4 @@ Otherwise, you will have to re-write the console by replacing `precmd` by `defau
 
 * **Lucy Njeri Maina** <[NjeriMaina4172](https://github.com/NjeriMaina4172)>
 * **Dennis Nderitu Kinyanjui** <[dennisnderitu254](https://github.com/dennisnderitu254)>
+* **Bella Okafor** <[belladesign](https://github.com/belladesign)>
